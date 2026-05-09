@@ -1,5 +1,6 @@
 [![CI/CD Pipeline](https://github.com/rewizi/lab1/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/rewizi/lab1/actions/workflows/ci-cd.yml)
-
+Production:
+https://lab1-ojgkmjlys-rewizis-projects.vercel.app
 # Lab1
 
 ## Опис проєкту

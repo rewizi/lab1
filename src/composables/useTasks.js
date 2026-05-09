@@ -9,4 +9,4 @@ export function getDaysLeft(days) {
 export async function checkTaskStatus(api) {
   return await api.getStatus()
 }
-const brokenVariable = 123
+

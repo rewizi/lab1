@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/rewizi/lab1/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/rewizi/lab1/actions/workflows/ci-cd.yml)
+
 # Lab1
 
 ## Опис проєкту
